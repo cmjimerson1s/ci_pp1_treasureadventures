@@ -15,22 +15,42 @@ h1, h2 {
     font-family: 'Aref Ruqaa Ink', serif;
 }
 
+#name_space {
+    background-color: forestgreen;
+}
+
+#nav_list {
+    background-color: darkcyan;
+}
+
+#buttons {
+    /* text-align: center; */
+    list-style-type: none;
+    display: inline;
+    float: left;
+}
+
 #main_image {
     background-color: blueviolet;
+    height: 450px;
 }
 
 #what_is {
     background-color: brown;
+    height: 450px;
 }
 
 #our_rooms {
     background-color: chartreuse;
+    height: 450px;
 }
 
 #newsletter {
     background-color: darkmagenta;
+    height: 450px;
 }
 
 footer {
     background-color: darkslategray;
+    height: 450px;
 }
