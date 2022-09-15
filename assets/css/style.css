@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink&family=Reem+Kufi+Ink&display=swap');
+
 * {
 
 }
 
 body {
     color: red;
+    font-family: 'Aref Ruqaa Ink', serif;
 }
