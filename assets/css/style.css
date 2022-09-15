@@ -6,5 +6,11 @@
 
 body {
     color: red;
+    font-family: 'Reem Kufi Ink', sans-serif;
+    font-size: 25px;
+}
+
+h1, h2 {
+    color: blue;
     font-family: 'Aref Ruqaa Ink', serif;
 }
