@@ -14,3 +14,23 @@ h1, h2 {
     color: blue;
     font-family: 'Aref Ruqaa Ink', serif;
 }
+
+#main_image {
+    background-color: blueviolet;
+}
+
+#what_is {
+    background-color: brown;
+}
+
+#our_rooms {
+    background-color: chartreuse;
+}
+
+#newsletter {
+    background-color: darkmagenta;
+}
+
+footer {
+    background-color: darkslategray;
+}
