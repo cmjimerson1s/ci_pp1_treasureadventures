@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink&family=Reem+Kufi+Ink&display=swap');
 
 * {
-
+    margin: 0;
+    padding: 0;
+    border: none;
 }
 
 body {
@@ -19,16 +21,35 @@ h1, h2 {
     background-color: forestgreen;
 }
 
+#big_name {
+    text-align: center;
+}
+
 #nav_list {
     background-color: darkcyan;
 }
 
-#buttons {
+#nav_list {
     /* text-align: center; */
-    list-style-type: none;
-    display: inline;
-    float: left;
+    display: table;
+    margin: 0 auto;
+    /* list-style-type: none; */
+    /* display: inline; */
+    /* float: left; */
 }
+
+ul#buttons {
+	width: 1200px;
+	list-style: none;
+	padding-top: 20px;
+    /* padding-left: 35px;
+    padding-right: 35px; */
+	}
+
+ul#buttons li {
+		display: inline;
+        padding: 25px;
+	}
 
 #main_image {
     background-color: blueviolet;
