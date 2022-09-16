@@ -67,6 +67,11 @@ ul#buttons li {
     height: 450px;
 }
 
+#who_are_we {
+    background-color: lightsalmon;
+    height: 450px;
+}
+
 #newsletter {
     background-color: darkmagenta;
     height: 450px;
