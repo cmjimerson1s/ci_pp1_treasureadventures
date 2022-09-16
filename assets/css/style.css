@@ -17,8 +17,15 @@ h1, h2 {
     font-family: 'Aref Ruqaa Ink', serif;
 }
 
+#top_space {
+    width: 100%;
+    height: 150px;
+    position: fixed;
+    top: 0;
+}
 #name_space {
     background-color: forestgreen;
+    height: 150px;
 }
 
 #big_name {
@@ -26,24 +33,17 @@ h1, h2 {
 }
 
 #nav_list {
-    background-color: darkcyan;
-}
-
-#nav_list {
-    /* text-align: center; */
     display: table;
     margin: 0 auto;
-    /* list-style-type: none; */
-    /* display: inline; */
-    /* float: left; */
+    background-color: darkcyan;
 }
 
 ul#buttons {
 	width: 1200px;
 	list-style: none;
-	padding-top: 20px;
-    /* padding-left: 35px;
-    padding-right: 35px; */
+    position: fixed;
+    left: 15%;
+    top: 85px;
 	}
 
 ul#buttons li {
@@ -54,6 +54,7 @@ ul#buttons li {
 #main_image {
     background-color: blueviolet;
     height: 450px;
+    padding-top: 175px;
 }
 
 #what_is {
