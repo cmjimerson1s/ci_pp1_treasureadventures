@@ -39,7 +39,7 @@ h1, h2 {
 }
 
 ul#buttons {
-	width: 1200px;
+	width: 100%;
 	list-style: none;
     position: fixed;
     left: 10%;
