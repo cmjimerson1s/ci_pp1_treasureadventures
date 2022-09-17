@@ -23,9 +23,11 @@ h1, h2 {
     position: fixed;
     top: 0;
 }
+
 #name_space {
     background-color: forestgreen;
     height: 150px;
+    margin-bottom: 50px;
 }
 
 #big_name {
@@ -44,12 +46,12 @@ ul#buttons {
     position: fixed;
     left: 10%;
     top: 85px;
-	}
+}
 
 ul#buttons li {
 		display: inline;
         padding: 25px;
-	}
+}
 
 #main_image {
     background-color: blueviolet;
