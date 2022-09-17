@@ -42,6 +42,7 @@ h1, h2 {
 
 ul#buttons {
 	width: 100%;
+    font-size: 25px;
 	list-style: none;
     position: fixed;
     left: 10%;
@@ -83,17 +84,6 @@ a.page_link {
 #bookings {
     background-color: darkmagenta;
     height: 450px;
-}
-
-#bookings_form {
-    margin: 95px 10% 0 0;
-    color: #fff;
-    background-color: rgba(60, 60, 60, 0.6);
-    width: 33%;
-    max-width: 600px;
-    position: absolute;
-    left: 33%;
-    padding: 30px;
 }
 
 #contact {
