@@ -85,6 +85,13 @@ a.page_link {
     height: 450px;
 }
 
+#bookings_form {
+    text-align: left;
+    float:right;
+    display: inline-block;
+    margin-top:auto;
+}
+
 #contact {
     background-color: dodgerblue;
     height: 450px;
