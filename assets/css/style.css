@@ -69,6 +69,13 @@ ul#buttons li {
     height: 450px;
 }
 
+a.page_link {
+
+    display: block;
+    position: relative;
+    top: -150px;
+    visibility: hidden;
+}
 #who_are_we {
     background-color: lightsalmon;
     height: 450px;
