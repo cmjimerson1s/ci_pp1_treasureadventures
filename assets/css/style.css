@@ -86,10 +86,13 @@ a.page_link {
 }
 
 #bookings_form {
-    text-align: center;
-    display: inline-block;
-    margin-top:auto;
-    padding-left: 25%;
+    margin: 95px 10% 0 0;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 500px;
+    position: absolute;
+    left: 32%;
+    padding: 30px;
 }
 
 #contact {
