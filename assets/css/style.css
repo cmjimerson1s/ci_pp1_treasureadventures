@@ -70,6 +70,16 @@ ul#buttons li {
     height: 450px;
 }
 
+#room_one {
+    padding-top: 50px;
+    padding-left: 15px;
+    width: 300px;
+    height: 350px;
+    position: relative;
+    overflow: hidden;
+}
+
+
 a.page_link {
     display: block;
     position: relative;
