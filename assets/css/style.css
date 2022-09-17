@@ -86,10 +86,10 @@ a.page_link {
 }
 
 #bookings_form {
-    text-align: left;
-    float:right;
+    text-align: center;
     display: inline-block;
     margin-top:auto;
+    padding-left: 25%;
 }
 
 #contact {
