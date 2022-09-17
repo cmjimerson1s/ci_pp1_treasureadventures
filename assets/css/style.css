@@ -56,7 +56,7 @@ ul#buttons li {
 #main_image {
     background-color: blueviolet;
     height: 450px;
-    padding-top: 175px;
+    padding-top: 150px;
 }
 
 #what_is {
@@ -92,5 +92,6 @@ a.page_link {
 
 footer {
     background-color: darkslategray;
-    height: 75px;
+    height: 70px;
+    padding-top: 50px;
 }
