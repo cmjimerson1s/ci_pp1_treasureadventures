@@ -58,18 +58,18 @@ ul#buttons li {
 
 #main_image {
     background-color: blueviolet;
-    height: 450px;
+    height: 600px;
     padding-top: 150px;
 }
 
 #what_is {
     background-color: brown;
-    height: 450px;
+    height: 600px;
 }
 
 #our_rooms {
     background-color: chartreuse;
-    height: 450px;
+    height: 600px;
 }
 
 a.page_link {
@@ -80,28 +80,70 @@ a.page_link {
 }
 #who_are_we {
     background-color: lightsalmon;
-    height: 450px;
+    height: 600px;
+    position: relative;
+    ;
 }
 
-#staff_container {
+/* #staff_container {
     width: 99%;
     height: 420px;
     border: 2px solid black;
     padding: 1px;
     margin-top: 13px;
     margin-left: 5px;
-    display: inline-block;
+    display: inline-block; */
+/* } */
+
+#ceo {
+    border: 1px solid gray;
+    /* display: inline-block; */
+    position: absolute;
+    top: 50px;
+    height: 300px;
+    min-width: 25%;
+    padding: 10px;
+    margin-left: 50px;
+}
+
+#cmo {
+    border: 1px solid gray;
+    /* display: inline-block; */
+    position: absolute;
+    left: 500px;
+    top: 100px;
+    height: 300px;
+    min-width: 25%;
+    padding: 10px;
+    margin-left: 50px;
+}
+
+#cto {
+    border: 1px solid gray;
+    /* display: inline-block; */
+    position: absolute;
+    top: 50px;
+    left: 1000px;
+    height: 300px;
+    min-width: 25%;
+    padding: 10px;
+    margin-left: 50px;
+}
+
+.headshot {
+    width: 100%;
+    height: 300px;
 
 }
 
 #bookings {
     background-color: darkmagenta;
-    height: 450px;
+    height: 600px;
 }
 
 #contact {
     background-color: dodgerblue;
-    height: 450px;
+    height: 600px;
 }
 
 footer {
