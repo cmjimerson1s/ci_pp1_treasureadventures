@@ -95,40 +95,7 @@ a.page_link {
     display: inline-block; */
 /* } */
 
-#ceo {
-    border: 1px solid gray;
-    /* display: inline-block; */
-    position: absolute;
-    top: 50px;
-    height: 300px;
-    min-width: 25%;
-    padding: 10px;
-    margin-left: 50px;
-}
-
-#cmo {
-    border: 1px solid gray;
-    /* display: inline-block; */
-    position: absolute;
-    left: 500px;
-    top: 100px;
-    height: 300px;
-    min-width: 25%;
-    padding: 10px;
-    margin-left: 50px;
-}
-
-#cto {
-    border: 1px solid gray;
-    /* display: inline-block; */
-    position: absolute;
-    top: 50px;
-    left: 1000px;
-    height: 300px;
-    min-width: 25%;
-    padding: 10px;
-    margin-left: 50px;
-}
+#ceo {}
 
 .headshot {
     width: 100%;
