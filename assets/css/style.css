@@ -95,7 +95,9 @@ a.page_link {
     display: inline-block; */
 /* } */
 
-#ceo {}
+#ceo {
+    width: 33%;
+}
 
 .headshot {
     width: 100%;
